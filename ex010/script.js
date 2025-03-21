@@ -1,4 +1,4 @@
 var dado = Number(prompt("Digite um número:"))
-var metade = Number(numero) / 2
+var metade = dado / 2
 
-alert ("A metade de " + numero + " é " + metade)
+alert("A metade do número é: " + metade)

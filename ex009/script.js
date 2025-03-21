@@ -1,4 +1,4 @@
 var dado = Number(prompt("Digite um número:"))
-var dobro = Number(numero) * 2
+var dobro = dado * 2
 
-alert ("O dobro de " + numero + " é " + dobro)
+alert("O dobro do número é: " + dobro)
