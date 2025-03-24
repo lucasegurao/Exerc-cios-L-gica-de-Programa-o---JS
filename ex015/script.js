@@ -1,8 +1,5 @@
-var largura = prompt("Digite a largura do Retângulo:")
-var altura = prompt("Digite a altura do Retângulo:")
-
-var largura = Number(largura)
-var altura = Number(altura)
+var largura = Number(prompt("Digite a largura do Retângulo:"))
+var altura = Number(prompt("Digite a altura do Retângulo:"))
 
 var area = largura * altura
 

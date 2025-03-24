@@ -1,5 +1,4 @@
-var lado = prompt("Digite o valor do lado do quadrado")
-var lado = Number(lado)
+var lado = Number(prompt("Digite o valor do lado do quadrado"))
 
 var area = lado * lado
 
