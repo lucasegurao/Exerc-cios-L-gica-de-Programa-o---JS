@@ -4,3 +4,13 @@ var valorDolares = prompt ("Digite um valor em dólares:")
 var valorReais = Number(valorDolares) * taxaCambio
 
 alert("O valor de $" + valorDolares + " em reais é R$" + valorReais.toFixed(2)) /* ".toFixed(2)" é utilizado para exibir o resultado com duas casas decimais.*/
+
+
+
+/* Desenvolvido em Sala de Aula */
+
+// var dolar = Number(prompt("Digite um valor em dólar: "))
+// var taxaCambio = 5.30
+// var realConvertido = dolar * taxaCambio
+
+// alert (`O valor US$${dolar} = R$${realConvertido.toFixed(2)}`)
